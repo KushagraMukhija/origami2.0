@@ -1,0 +1,16 @@
+*{
+    border:solid;
+}
+
+.header{
+    color: rgb(153, 45, 45);
+}
+
+.grid{
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+h2{
+    text-align: center;
+}
